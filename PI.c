@@ -4,13 +4,13 @@
 
 **** Calculate PI with Nilkantha's series in C	****
 
-**** Creator : Seyed Fazel Alavi		            ****
+**** Creator : Seyed Fazel Alavi		****
 
-**** github : https://github.com/fazel87/PI	    ****
+**** github : https://github.com/fazel87/PI	****
 
-**** Email : fazel8195@gmail.com 		            ****
+**** Email : fazel8195@gmail.com		****
 
-**** License : MIT License		                	****
+**** License : MIT License			****
 
 */
 
